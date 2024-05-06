@@ -3,15 +3,15 @@ const { appKey, userKey } = require('./config');
 const https = require('https');
 const fs = require('fs');
 
-const apiUrl = 'https://myhordes.de/api/x/json/townlist';
-const outputFile = 'beta_ids.json';
+const apiUrl = 'https://myhordes.de/api/x/json/towns';
+const outputFile = 'status.json';
 //
-const arg1 = '&season=';
-const arg1info = 'b';
+const arg1 = '&ids=';
+const arg1info = '171411,171579,171604,171725,171726,171776,171777';
 //
 //const arg2 = '&fields=';
-const arg2 = '';
-const arg2info = '';
+const arg2 = '&fields=';
+const arg2info = 'citizens.ids';
 //
 const apiUrlWithParams = `${apiUrl}?appkey=${appKey}&userkey=${userKey}${arg1}${arg1info}${arg2}${arg2info}`;
 

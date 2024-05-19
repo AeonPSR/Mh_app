@@ -12,36 +12,28 @@ const jsonData = require('./towns_id/townsID.json');
 // Object to store player interactions
 let playerInteractions = {};
 
-jsonData.forEach((town) => {
-	town.forEach((id) => {
-		const arg1info = id.toString();
-		const apiUrlWithParams = `${apiUrl}?appkey=${appKey}&userkey=${userKey}&ids=${arg1info}${arg2}`;
+Object.values(jsonData).forEach((town)=> {
 
-		https.get(apiUrlWithParams, (response) => {
-		let data = '';
+	const arg1info = town.join(',');
+	const apiUrlWithParams = `${apiUrl}?appkey=${appKey}&userkey=${userKey}&ids=${arg1info}${arg2}`;
 
-		response.on('data', (chunk) => {
-			data += chunk;
-		});
+	https.get(apiUrlWithParams, (response) => {
+	let data = '';
 
-		response.on('end', () => {
-			const responseData = JSON.parse(data);
+	response.on('data', (chunk) => {
+		data += chunk;
+	});
 
-			// Extract player IDs from the response
-			const playerIds = responseData.citizens.ids;
-
-			// Update player interactions count
-			updatePlayerInteractions(playerIds);
-
-			// Write player interactions to file
-			fs.writeFile(outputFile, JSON.stringify(playerInteractions, null, 2), (err) => {
+	response.on('end', () => {
+		const formattedData = JSON.stringify(JSON.parse(data), null, 2); // Add indentation and line breaks
+		fs.appendFile(outputFile, formattedData, (err) => {
 			if (err) throw err;
-			console.log('Player interactions data has been saved to', outputFile);
-			});
+			console.log('No error, data has been saved to', outputFile);
+			//console.log(apiUrlWithParams);
 		});
-		}).on('error', (error) => {
-		console.error('Error:', error);
-		});
+	});
+	}).on('error', (error) => {
+	console.error('Error:', error);
 	});
 });
 

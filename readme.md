@@ -4,4 +4,8 @@ const appKey = [Your App's key]
 
 const userKey = [Your own user key]
 
-generateUsersRelation is WIP
+TODO:
+Extract data for every town in files
+Generate stats about them (surv time, consanguinity...)
+Generate a file with relation between users
+Display said relations in a graph

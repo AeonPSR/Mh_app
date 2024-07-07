@@ -9,3 +9,7 @@ Extract data for every town in files
 Generate stats about them (surv time, consanguinity...)
 Generate a file with relation between users
 Display said relations in a graph
+
+
+V1: Dirty, ugly, sad JS version that prints stuff to a file.
+V2

@@ -1,0 +1,1321 @@
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=171808,171809,171811,171812,171813,171829,171834,171835,171836,171839,171862,171865,171890,171939,171974,171979,172040,172079,172197,172216,172404,172407,172426,172520,172578,172579,172762,172763,173018,173022,173095,173097,173144,173190,173331,173412,173415,173540,173700,173703,173803,173805,173850,173851,173865,173931,174101,174166,174167,174270&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:34:04 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:34:04 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 92
+x-ratelimit-retry-after: 1741523630
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=5tjsAEcmUz5vt015hjIQr0JM1mxSU8yR3Pr2ZAmnmYcni8FksnXgnIJ6RjQ7OcACdaRUk47ruZwW1kTaInb%2FMEmQnWDmQbkUhlLRA1h%2FOT3ETEXXHPW%2BWIUvG3KGAw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91da9a635a82bc93-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17778&min_rtt=16797&rtt_var=7000&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2839&recv_bytes=1486&delivery_rate=173840&cwnd=248&unsent_bytes=0&cid=c224dbea2bc555b4&ts=13692&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=174366,174443,174444,174568,174718,174832,174846,174878,174879,174894,174896,174899,174900,174958,174966,174984,175189,175191,175193,175211,175452,175453,175540,175542,175631,175632,175846,175878,175879,175898,175899,175900,175911,176018,176198,176250,176267,176311,176316,176320,176350,176448,176507,176508,176703,176704,176708,176772,176827,176838&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:34:04 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:34:04 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 93
+x-ratelimit-retry-after: 1741523630
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=HmDVmvvdF9R0skaMO5uoslxiA%2BosrSGFdQ6icfbFRXi00hNUqnflmB%2F2kpC980%2BLELkQmTc90yH3hag5c9r1pEQebipwu%2BKJb1%2FDUgVlxbXHW2wk9ppbHvW%2B2Wc0JQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91da9a635aa9e177-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=20535&min_rtt=18068&rtt_var=8538&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2839&recv_bytes=1486&delivery_rate=161611&cwnd=242&unsent_bytes=0&cid=7fea4fdc37b91f2d&ts=13720&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=176925,176927,176978,176980,176982,176985,176986,177115,177117,177417,177437,177455,177512,177536,177537,177538,177677,177680,177684,177687,177688,177786,177789,177792,177797,177800,177803,177811,177816,177932,178007,178009,178029,178062,178093,178096,178236,178237,178394,178455,178458,178470,178472,178559,178611,178712,178713,178749,178790,178855&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:34:18 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:34:18 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 91
+x-ratelimit-retry-after: 1741523644
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=%2Bo0wD%2B5mjhz8NN%2BsXLrjGHnS1hduty9u4HtRekIwiM5OmBcxW%2FU1VhWjdGx4Ed%2BIpDMwU%2B4gj7UwPTXVUmh5a4GCJ9VpfDaTsr%2FbQA3V%2Bl0XTdVNdP%2BckU0n0YEO4w%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91da9aba3a70e1f1-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=19678&min_rtt=17781&rtt_var=8023&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2839&recv_bytes=1486&delivery_rate=164220&cwnd=232&unsent_bytes=0&cid=8c41bc100a25c4d2&ts=13557&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=178883,178895,178896,178915,178953,178954,178987,178988,178989,178991,179158,179223,179310,179341,179407,179446,179493,179532,179706,179756,179782,179845,179864,179865,179922,179927,180092,180094,180162,180212,180213,180214,180338,180339,180340,180342,180407,180424,180596,180599,180600,180662,180663,180666,180747,180748,180749,180752,180753,180754&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:34:18 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:34:18 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 90
+x-ratelimit-retry-after: 1741523644
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=glnW6nhPXNh%2FTdigKDevfq0R2htAX4r3WBuLaJKjOwtPrLeq235juDjR8%2BKdxOtfiSmNA8n3uy0YydVD2utnhVm%2BXoOCyND32rugZzToV2ndbBatGR01UexwK5uT5A%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91da9aba5c3312ae-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=21503&min_rtt=17203&rtt_var=9523&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=169737&cwnd=224&unsent_bytes=0&cid=7f2f2a5d1b1ed0c4&ts=13716&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=180777,180979,181014,181141,181168,181278,181384,181385,181386,181387,181541,181636,181661,181752,181761,181840,181880,181882,181883,181885,181887,181888,181918,181936,181937,181969,182042,182107,182108,182159,182276,182282,182300,182407,182460,182461,182510,182584,182635,182636,182697,182698,182699,182701,182735,182741,182742,182776,182798,182803&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:34:31 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:34:31 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 89
+x-ratelimit-retry-after: 1741523658
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=UIsPf4giP3P3LsX6On7sOHoENiN8wkKbdDkC5XRIqR6rxtuqHvYbnYva8QxxvZ4BbLEyFa4%2Bv0EK7D0iT50L1FXSu%2FXDW5uYGXLMGU4%2F2oFDxhdJrWCp8g2RUp3glw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91da9b0ffd94704e-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=18107&min_rtt=17779&rtt_var=7323&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=143116&cwnd=230&unsent_bytes=0&cid=26ee2eab5a6c5baa&ts=13736&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=182806,182811,182812,182813,182815,183009,183010,183025,183129,183246,183247,183248,183249,183313,183323,183359,183367,183368,183370,183437,183506,183612,183643,183687,183711,183816,183818,183830,183863,183865,183997,183998,184219,184310,184311,184312,184423,184448,184449,184450,184471,184534,184538,184541,184542,184631,184649,184721,184722,184723&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:34:32 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:34:32 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 88
+x-ratelimit-retry-after: 1741523658
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=4Gz4sCtERmzK9%2FiUyMFoR3vKyHLIwRMbYJ0Bcu%2BN7y7FlBOrMfipmTlAQTqJElI8Ub8YFj7XzvYkoUiTr6Q0VRokaJHn2gkTlgMMJ77fpczNMFu04dfxSu1lhC76Og%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91da9b112ac24dfe-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17934&min_rtt=17598&rtt_var=6840&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2837&recv_bytes=1486&delivery_rate=165927&cwnd=241&unsent_bytes=0&cid=64f50775b10f5e93&ts=13783&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=184776,184831,184833,184834,184836,184867,184868,184903,184904,184929,184935,184936,185086,185088,185104,185105,185112,185113,185159,185218,185220,185221,185293,185301,185303,185413,185415,185477,185503,185504,185506,185508,185509,185537,185547,185612,185687,185688,185689,185720,185769,185770,185835,185837,185885,185886,185949,185950,185951,186006&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:34:45 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:34:45 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 87
+x-ratelimit-retry-after: 1741523672
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=%2FOvwUYJxZaYE%2BLZZQWwKumsyYjFFUZpw4kI8b0YARhyOEHf7yc9kz2AMmhSM5S5142ECC4dY6u4u9ReRtN3toCBLoMavhjenq9qb6Kd%2F00EldgYvE%2B%2Fyf%2B4XlqK10A%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91da9b66dbe47662-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=18022&min_rtt=17984&rtt_var=6771&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=162366&cwnd=232&unsent_bytes=0&cid=bfe3c6e4d62eac3e&ts=13680&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=186007,186010,186017,186018,186019,186056,186057,186093,186138,186163,186165,186187,186209,186210,186211,186224,186256,186267,186278,186306,186307,186308,186320,186321,186367,186369,186371,186385,186386,186387,186388,186396,186435,186468,186478,186479,186518,186536,186539,186576,186601,186620,186621,186622,186624,186677,186678,186680,186788,186792&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:34:45 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:34:45 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 86
+x-ratelimit-retry-after: 1741523672
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=5PEXxAicP4wyopqz4AZZavryWnO%2BopDCEAM7CyIedki4dbgemMaxPkipXX6aG4n978rACPT%2F%2FW4icwg%2FdPwTkbVqiRDcQl6G1on1Me4wYWaPdafCdPPhbNcB2iwAvw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91da9b68d96344c2-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17866&min_rtt=17712&rtt_var=6752&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=164859&cwnd=251&unsent_bytes=0&cid=40465d8a21a1d7b2&ts=13426&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=187638,187653,187654,187716,187733,187734,187735,187839,187840,187841,187842,187844,187885,187886,187966,187975,187976,188128,188129,188130,188145,188175,188197,188220,188221,188284,188285,188291,188292,188294,188295,188297,188302,188306,188314,188336,188337,188393,188394,188416,188429,188431,188467,188468,188470,188496,188501,188502,188504,188506&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:34:59 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:34:59 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 84
+x-ratelimit-retry-after: 1741523686
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=W7QdIm3b%2BXSjb5QLs00ODE%2B8xmRk2xJNQy9bO79g40qEecinojJ5k99gZ%2BYWwON7JHU8ZetEI46O35rfZ1nf%2FyxKWWseuAl%2BX%2Fu%2FDmIfvme0ZlXFOmmgBjL0hdcOzw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91da9bbdba5bc0ab-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17799&min_rtt=16835&rtt_var=7002&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2837&recv_bytes=1486&delivery_rate=173448&cwnd=237&unsent_bytes=0&cid=eedd8cf3a3572963&ts=13400&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=186836,186837,186862,186863,186865,186935,186964,186970,186971,186972,187125,187126,187127,187135,187141,187142,187177,187178,187180,187205,187206,187207,187224,187225,187227,187228,187240,187255,187256,187272,187273,187275,187311,187314,187370,187386,187389,187390,187398,187415,187447,187448,187449,187480,187528,187529,187531,187545,187622,187624&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:34:59 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:34:59 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 85
+x-ratelimit-retry-after: 1741523686
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=jQIoMSDzxxZsno2HHcKmyJCfZ8wqekXQhOQJJzWmu%2BPuJ23HPh1Z7NPnW9h2LsBhTS9I1Cl2clSFA%2B0xbV8BwgW1o0t09u8wRaz%2F2Io5ZIkNrxEanWpEosCDyN1zmA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91da9bbd6a46e209-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=19653&min_rtt=17935&rtt_var=7953&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2839&recv_bytes=1486&delivery_rate=162810&cwnd=250&unsent_bytes=0&cid=6e591f2df9606bc7&ts=13645&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=188646,188653,188698,188743,188752,188753,188794,188802,188815,188816,188840,188841,188870,188871,188873,188976,189043,189139,189142,189143,189146,189147,189177,189178,189179,189180,189188,189232,189271,189273,189284,189286,189287,189292,189360,189434,189435,189436,189438,189472,189473,189495,189500,189533,189535,189566,189567,189568,189570,189585&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:35:13 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:35:12 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 83
+x-ratelimit-retry-after: 1741523699
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=sH1T9OfGw7rSaD4yv%2BNYyS0cGYxSl1McWR2WCIrIKEbLjz20%2Bj6E7q63D6D3RjQ6FkYqikxxnjwmSLtl2G3AGGX3Ba%2FhNY%2FJj4QH%2Bgybet9hvNPCXGrrMj1MzqqyXQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91da9c128e15e201-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=19019&min_rtt=16786&rtt_var=7890&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=173954&cwnd=241&unsent_bytes=0&cid=c34eeb09be0d7c14&ts=13427&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=189600,189611,189612,189638,189639,189664,189676,189677,189688,189689,189710,189725,189732,189735,189736,189764,189785,189795,189825,189916,189960,189991,189992,190047,190167,190317,190318,190320,190345,190346,190352,190353,190355,190357,190407,190419,190420,190421,190436,190437,190476,190583,190611,190612,190613,190614,190656,190658,190661,190681&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:35:13 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:35:13 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 82
+x-ratelimit-retry-after: 1741523699
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=7f9HgzyFxHbdhF9wEE1F1Momw1Sus9qbV8aT1g8zeCTAYcd7toG4DJMo8N1oUM7BLCW6LqRhq2KaKqaS9cyRKeJDxHYwmTm2WMTD3Ahw%2FWQdNnZ2J0st2PuaUk%2B3Hw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91da9c1488eae243-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17991&min_rtt=17724&rtt_var=6837&sent=5&recv=6&lost=0&retrans=0&sent_bytes=2839&recv_bytes=1486&delivery_rate=164748&cwnd=243&unsent_bytes=0&cid=2647fd28e5786081&ts=13641&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=190715,190814,190840,190856,190871,190872,190873,190876,190915,190916,190917,190918,190921,190957,190973,190974,190976,191000,191001,191026,191048,191050,191055,191056,191069,191070,191071,191084,191085,191139,191216,191253,191255,191257,191300,191301,191401,191402,191403,191404,191513,191547,191548,191549,191634,191635,191637,191734,191820,191821&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:35:26 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:35:26 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 81
+x-ratelimit-retry-after: 1741523713
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=x9uMPufwgHS56g26eXuzpq5AKBANg%2BPAbEhfFx9Tc%2BodyzSXx27S2EEXgfFAVl04kLsIXrmQNfzB9iF3xWtkBLfjGOEG%2FJThCdIG7ev1llwGESCM33bSGAA5cJATog%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91da9c678e2a83cc-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17858&min_rtt=17382&rtt_var=6859&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=167989&cwnd=227&unsent_bytes=0&cid=ba21e175f0bfa50e&ts=13280&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=191921,192006,192007,192008,192012,192017,192018,192033,192034,192035,192036,192037,192039,192040,192128,192129,192140,192152,192154,192155,192156,192158,192216,192218,192266,192267,192295,192301,192303,192304,192308,192335,192336,192385,192427,192429,192454,192478,192555,192556,192648,192649,192650,192682,192717,192784,192819,192820,192821,192856&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:35:26 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+Expires: Sun, 09 Mar 2025 12:35:26 GMT
+Server: cloudflare
+X-Ratelimit-Limit: 120
+X-Ratelimit-Remaining: 80
+X-Ratelimit-Retry-After: 1741523713
+X-Real-Server: ffe17674053c
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: zstd
+CF-RAY: 91da9c6ac950e244-MRS
+alt-svc: h3=":443"; ma=86400
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=192970,193066,193070,193071,193097,193099,193100,193115,193116,193140,193148,193178,193200,193201,193232,193233,193244,193248,193249,193253,193254,193310,193338,193339,193466,193481,193482,193485,193486,193607,193662,193684,193685,193697,194092,194093,194094,194098,194142,194143,194160,194161,194338,194339,194406,194464,194465,194466,194468,194497&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:35:40 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:35:40 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 79
+x-ratelimit-retry-after: 1741523726
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=MtV424NOymjmpgfSe6aho0kLEotXqjKv5u%2BEVfvPEpzdrtv3DfE3EL2P7%2BpHU6nyS9RKrxuKzSrO%2BAwAWcVQgrEon%2BcrDhzB%2FPR2IR9QHRfdU2l%2BeOB4D0FxXetGEg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91da9cbb6b99e161-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=19460&min_rtt=16328&rtt_var=8360&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2837&recv_bytes=1486&delivery_rate=178833&cwnd=248&unsent_bytes=0&cid=e1bb3ed2529890f1&ts=13842&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=194592,194602,194605,194650,194655,194656,194657,194800,194911,194912,194927,194932,194980,195034,195035,195179,195180,195185,195188,195328,195364,195365,195367,195465,195467,195468,195470,195492,195494,195531,195532,195533,195616,195617,195624,195625,195626,195631,195632,195634,195676,195677,195689,195691,195704,195705,195773,195774,195803,195833&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:35:40 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:35:40 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 78
+x-ratelimit-retry-after: 1741523727
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=37Iip2nRIWpap5tzXHkl0Iolt53fsom%2BmwaWmQPF46HbrjwS29keotcZUJOCAIYxik2N97P3wTz0wLgGRZ8AkGHo0LnC87ofRGhcp9XeyOyArkqUiURaqMnPiUlDDg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91da9cbefc3ce1e8-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=18124&min_rtt=17981&rtt_var=7030&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2839&recv_bytes=1486&delivery_rate=152639&cwnd=246&unsent_bytes=0&cid=f62b1623c634b2b0&ts=13561&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=195834,195876,195945,195946,195947,195987,195988,195989,195990,195991,196012,196097,196098,196099,196100,196101,196120,196121,196168,196196,196197,196250,196251,196252,196255,196258,196259,196277,196334,196335,196367,196368,196449,196450,196452,196453,196496,196497,196536,196537,196541,196668,196676,196711,196772,196773,196792,196890,196891,196893&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:35:54 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:35:54 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 77
+x-ratelimit-retry-after: 1741523740
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=82mxKDUQbbDdqoMuekfS3PkegjvXG3m1FFm6PgWirEbNJJDirc2xyrbSDLi154JR%2BL4oUD80gItYzoVPRfw1tmqZGIxJGfoU3dF%2BsZCflMr7czsMToq28HzOlX4%2FMg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91da9d12d844cfa3-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17778&min_rtt=16439&rtt_var=7121&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2837&recv_bytes=1486&delivery_rate=177626&cwnd=251&unsent_bytes=0&cid=4914db758b537426&ts=13962&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=196901,196902,196904,196905,196966,197089,197090,197091,197092,197094,197177,197178,197227,197228,197232,197271,197272,197278,197283,197284,197290,197292,197310,197311,197312,197322,197331,197333,197345,197423,197424,197426,197427,197429,197430,197442,197444,197445,197446,197449,197498,197500,197501,197512,197535,197536,197616,197618,197619,197622&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:35:54 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+Expires: Sun, 09 Mar 2025 12:35:54 GMT
+Server: cloudflare
+X-Ratelimit-Limit: 120
+X-Ratelimit-Remaining: 76
+X-Ratelimit-Retry-After: 1741523741
+X-Real-Server: ffe17674053c
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: zstd
+CF-RAY: 91da9d155c2ae244-MRS
+alt-svc: h3=":443"; ma=86400
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=197660,197661,197720,197721,197722,197723,197724,197726,197729,197793,197794,197796,197797,197808,197810,197812,197823,197824,197858,197860,197894,197949,198018,198024,198098,198156,198208,198250,198263,198264,198265,198328,198357,198358,198434,198437,198464,198478,198525&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:36:05 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:36:05 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 75
+x-ratelimit-retry-after: 1741523754
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=JXubG5yByih3zFYmoVF3Nu6Q8oDGCIciVNfKyb0LqOLpRzBZeNeWosvbD%2BcDFD3snz3w09ssD8bC3yDngyYTAXKRHVp9eQCwcR%2B3l4FZJ%2Ff3biXSvvghfL7ZwRr2cg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91da9d6b3990e19e-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17931&min_rtt=17708&rtt_var=6800&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1409&delivery_rate=164897&cwnd=249&unsent_bytes=0&cid=fdaf1ae3bcdcfc35&ts=10902&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=199259,199260,199262,199263,199291,199304,199305,199360,199388,199389,199390,199391,199531,199640,199644,199667,199691,199698,199726,199794,199801,199870,199872,199873,199895,199934,200003,200004,200100,200113,200114,200116,200120,200122,200179,200208,200222,200223,200224,200281,200380,200423,200424,200468,200498,200499,200534,200535,200563,200564&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:46:11 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:46:11 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 73
+x-ratelimit-retry-after: 1741524357
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=6ZDN55yGY9Yr%2BU2QQI3L828naAf13bf7QylHQKU6hYYIzjKtfrHWnzWvkzvgWbIYfQhormAiO6%2ForuLZTFUUZxTsODkXXXESib1qi30pbGqlWjNJtBC%2FoDtxOO%2F%2BGQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91daac216bc0e246-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=18240&min_rtt=18207&rtt_var=6851&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2839&recv_bytes=1486&delivery_rate=160377&cwnd=194&unsent_bytes=0&cid=e02a73421c2f551b&ts=13883&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=198713,198714,198716,198717,198718,198719,198721,198737,198738,198739,198745,198799,198800,198868,198871,198879,198880,198920,198921,198934,198935,198940,198948,198950,198951,198952,198987,198989,198990,198992,198993,198994,198995,199008,199012,199022,199071,199080,199135,199136,199137,199138,199139,199180,199214,199222,199223,199224,199253,199256&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:46:11 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:46:11 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 74
+x-ratelimit-retry-after: 1741524357
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=g6nuMOVXL5iSZpCA8soCNbyAv0ljINmRN8IJ4OSaXlTu2e6nXs8rtZYapVOzu0ZU0eKMpGcAzLG2kE9gfxxmwh%2F4M%2BWd4t4375d45AIEoziBHiODyYYFzTZPhGPVKQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91daac215c50e1a8-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17937&min_rtt=17384&rtt_var=6914&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2839&recv_bytes=1486&delivery_rate=167970&cwnd=251&unsent_bytes=0&cid=107bf3dc83c062b6&ts=13951&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=201586,201587,201639,201642,201719,201721,201722,201728,201879,201880,201978,201979,201995,202001,202002,202004,202022,202023,202026,202048,202102,202130,202131,202142,202143,202145,202146,202232,202243,202244,202253,202273,202309,202310,202311,202312,202361,202369,202370,202371,202377,202378,202433,202434,202440,202500,202503,202560,202561,202569&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:46:25 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:46:25 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 72
+x-ratelimit-retry-after: 1741524371
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=FifDnxF7HEkwQ%2FwB%2B0B0M5KiNbnvTe6jcOGQjFs8IISPcSYkT2Rk2%2FB8mtlr%2FK2DjaJvehPeKggtyNX9Nd6TPkFQRJPyfFXdyGLigQhm5vnZpBIzVJWwFeGHdry5uw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91daac799b2fe246-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17417&min_rtt=17356&rtt_var=6630&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=163631&cwnd=194&unsent_bytes=0&cid=808fb35bde5ac954&ts=13730&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=200565,200584,200620,200670,200673,200674,200692,200791,200792,200856,200858,200883,200895,200896,200925,200927,200928,200934,200935,200939,200984,201096,201098,201099,201153,201154,201157,201171,201173,201176,201253,201254,201266,201279,201312,201313,201315,201335,201406,201408,201410,201411,201412,201440,201483,201484,201485,201486,201513,201568&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:46:25 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:46:25 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 71
+x-ratelimit-retry-after: 1741524371
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=f6QBc4W%2FSHIOOqz9TTtJ9ELr2rszZGPB0rXZ415QFbcnk1M9kZEsINb34UdbUZ3sib6cLhu5qfGOcMAq0deXL0X7jR2Yy7PtBmTPDorTfaUCvCRgZaIcyn20BGeang%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91daac79498e184a-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=18070&min_rtt=17998&rtt_var=6893&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=157192&cwnd=219&unsent_bytes=0&cid=6f9ffe5675efb8f7&ts=13881&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=202630,202671,202672,202673,202712,202737,202738,202753,202779,202783,202784,202796,202797,202798,202802,202803,202805,202806,202808,202885,202887,202898,202899,202900,202901,202903,202904,202907,202908,202940,202961,202962,202963,203014,203041,203051,203052,203055,203056,203057,203058,203061,203096,203100,203127,203137,203138,203154,203158,203301&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:46:39 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:46:39 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 70
+x-ratelimit-retry-after: 1741524385
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=z4voMMdPe4HrTQ%2Flak1o6SDNUoxWUrZxi9cwbypUO6LQAdaVIOE4mzahch%2BjIhv7JNVJfRmfNs2XXa3d%2BPMNZMdQjdqkSe4UocjEHGihUNG5f6QoEgUZr%2F39mSGuVw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91daacd07ec1e221-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=16678&min_rtt=16550&rtt_var=6462&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2839&recv_bytes=1486&delivery_rate=166145&cwnd=234&unsent_bytes=0&cid=53ab1bc956c43607&ts=13862&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=203367,203378,203379,203387,203388,203401,203427,203428,203431,203458,203459,203460,203535,203536,203537,203538,203579,203625,203654,203655,203656,203682,203753,203754,203765,203783,203793,203795,203796,203797,203798,203799,203948,203949,203950,203951,203952,203976,204053,204056,204057,204079,204080,204081,204116,204117,204143,204144,204149,204152&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:46:39 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:46:39 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 69
+x-ratelimit-retry-after: 1741524385
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=fUkgjkDsmTXR9GFzwnxqK80tfWj9UiEHu4jj4iLxwR3X04pvgLt8iw4A9CNhgl1Mmb%2BQuOI4JPkqKDnfBeHWEde1%2BMFJIyM1wwvRlJcKs0o%2BpDt1Kx0LxG2UMGKvyQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91daacd11d8de173-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17886&min_rtt=17507&rtt_var=6836&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=166790&cwnd=229&unsent_bytes=0&cid=d7519b5de1f932b0&ts=13837&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=205227,205228,205277,205278,205279,205280,205289,205299,205322,205325,205326,205327,205328,205330,205343,205344,205345,205346,205352,205366,205367,205394,205398,205422,205423,205439,205440,205491,205492,205548,205549,205550,205623,205655,205656,205660,205661,205670,205671,205684,205689,205699,205700,205701,205707,205727,205729,205766,205818,205835&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:46:53 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:46:53 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 67
+x-ratelimit-retry-after: 1741524399
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=T4a8E2uGV4%2FXRw4xFVpuEkZCOEkTVSbEkLJ6PGdhfTUqCkqovL3bLnXruxCH0gGqZsE1Ok8OrGnnUJDf%2B0GRRoWHvEpik1eAWGUjKZGYdMmKAwSBDwHWD0yIyFAxbA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91daad28cdce1f97-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17853&min_rtt=16435&rtt_var=7176&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2837&recv_bytes=1486&delivery_rate=177669&cwnd=152&unsent_bytes=0&cid=e5bcb47c97859d73&ts=13659&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=204196,204197,204198,204247,204272,204308,204314,204350,204352,204403,204476,204499,204528,204529,204531,204561,204562,204565,204712,204799,204800,204801,204806,204812,204842,204848,204849,204886,204887,204888,204889,204903,204904,204905,204917,204960,204961,204986,204987,204989,204993,205068,205112,205113,205139,205167,205168,205173,205182,205226&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:46:53 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+Expires: Sun, 09 Mar 2025 12:46:53 GMT
+Server: cloudflare
+X-Ratelimit-Limit: 120
+X-Ratelimit-Remaining: 68
+X-Ratelimit-Retry-After: 1741524399
+X-Real-Server: ffe17674053c
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: zstd
+CF-RAY: 91daad282d977585-MRS
+alt-svc: h3=":443"; ma=86400
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=205837,205838,205839,205840,205844,205873,205875,205876,205888,205889,205906,205937,205939,205941,205942,205943,205949,205950,205951,205957,206062,206063,206160,206191,206192,206193,206195,206196,206200,206201,206225,206276,206284,206286,206297,206304,206347,206349,206350,206374,206375,206376,206403,206404,206406,206408,206418,206419,206421,206425&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:47:07 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:47:07 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 66
+x-ratelimit-retry-after: 1741524413
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=6p6gZ1xuDEwKx2Q5o%2FJWYe4Ocs6uc3E%2B4MkcANREtVe36OB0aqsnMPIsqi%2Fw4lu6a%2FHjqujYx9dWDpo0MRBQ7TqTlR0MtY6pKwY2GQme3cLE4OLNsb7ZVa0UUKXyVg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91daad7f6ace8a1c-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17848&min_rtt=17190&rtt_var=6916&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2839&recv_bytes=1486&delivery_rate=169866&cwnd=242&unsent_bytes=0&cid=32dd14b6d9ef6144&ts=13767&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=206493,206494,206495,206514,206578,206587,206642,206644,206646,206677,206678,206728,206830,206831,206832,206833,206834,206850,206887,206903,206949,206985,206986,206987,206988,207017,207030,207031,207083,207085,207088,207089,207164,207165,207166,207207,207216,207217,207256,207257,207261,207270,207271,207280,207281,207295,207296,207319,207320,207322&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:47:07 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:47:07 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 65
+x-ratelimit-retry-after: 1741524413
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=hbMGaCQivL55V3HyvDlPPUqn7XJWG9oVrQ8rcYtPYPOJE3KYhXStZKO%2BYCkf4B2i7KtXdfakx3y6YtMuTnw2dgg%2BkfO%2BXS0%2Ftk%2FdfSsFggqjbd56zxfeVf8JeU2V6Q%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91daad7fdba8e1cc-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17842&min_rtt=17058&rtt_var=6956&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2839&recv_bytes=1486&delivery_rate=171180&cwnd=245&unsent_bytes=0&cid=160152b772ec564b&ts=13744&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=207465,207466,207491,207492,207493,207495,207511,207546,207547,207548,207569,207570,207578,207582,207609,207610,207642,207666,207701,207703,207704,207709,207713,207724,207725,207726,207727,207728,207729,207838,207839,207941,208355,208569,208704,208710,208736,208824,208825,208826,208830,208842,208852,208854,208855,208993,208994,208995,208996,209044&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:47:21 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:47:21 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 64
+x-ratelimit-retry-after: 1741524427
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=j2GR%2B2qRv4uy7Tb4imEIClrEbi%2FSygOMERERmB1QRMU6%2FO%2BTZIoWMtKJAHJ7EKG0QdLsSteX%2BPfa5%2BiErSHiO5x0I4poccv3NAZry%2B1Pua0wMzrTDr6FNMC73C8zzw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91daadd68edc2b24-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=18003&min_rtt=17973&rtt_var=6801&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2839&recv_bytes=1486&delivery_rate=160289&cwnd=250&unsent_bytes=0&cid=44c377d1e96a9534&ts=13940&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=209145,209276,209277,209286,209295,209314,209317,209318,209319,209688,209753,209769,209780,209836,209837,209904,209905,210005,210006,210014,210096,210127,210146,210176,210201,210307,210309,210353,210442,210443,210569,210570,210571,210618,210647,210649,210682,210683,210684,210723,210730,210808,210870,210878,210897,210933,210959,210987,211035,211049&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:47:21 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+Expires: Sun, 09 Mar 2025 12:47:21 GMT
+Server: cloudflare
+X-Ratelimit-Limit: 120
+X-Ratelimit-Remaining: 63
+X-Ratelimit-Retry-After: 1741524427
+X-Real-Server: ffe17674053c
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: zstd
+CF-RAY: 91daadd6fc93e17d-MRS
+alt-svc: h3=":443"; ma=86400
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=211112,211113,211261,211326,211328,211330,211365,211472,211484,211583,211584,211586,211675,211676,211785,211792,211793,211869,211871,211891,211892,211893,211911,211912,212015,212056,212202,212203,212226,212233,212234,212239,212240,212241,212255,212285,212320,212374,212375,212416,212420,212471,212473,212474,212475,212528,212530,212531,212549,212551&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:47:35 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:47:35 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 62
+x-ratelimit-retry-after: 1741524441
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=sS6Z1kPbh2I402%2BV16DFhxOwkSsy7N1tvo%2B2BPPQfR%2B8SKaM0fCJ3xMaGkb1qwgqMZKV9A%2FweIdWualqLGyIssVLSYE3CFoLo%2FzLH9WtzACXb%2F8hVz3ooWvF1ApD%2BQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91daae2efaf42558-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17998&min_rtt=17932&rtt_var=6856&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=158171&cwnd=251&unsent_bytes=0&cid=cc4747af542904fb&ts=13859&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=212624,212625,212626,212669,212691,212736,212841,212842,212843,212887,212906,212957,212958,212959,212983,212984,213028,213035,213036,213064,213074,213076,213125,213181,213225,213241,213288,213289,213290,213299,213464,213465,213467,213468,213491,213585,213586,213627,213763,213819,213905,214033,214034,214063,214064,214065,214066,214067,214068,214069&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:47:35 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:47:35 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 61
+x-ratelimit-retry-after: 1741524441
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=YlBUErVGSEUrREV%2B4lc1vFVxF3X7nrDavHzlDKS35QiPTfMgPSeiWPfarkmz0OzqS1MUekJtLuuJanZfNTIZ%2BQeHNqgDCJNenlRC7HbyjDO8WOxaq51gVpC14E%2FOzg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91daae2f8cb8129a-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17765&min_rtt=16690&rtt_var=7027&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=174955&cwnd=245&unsent_bytes=0&cid=77635b4cc2146d2b&ts=14142&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=214070,214071,214072,214073,214074,214075,214076,214079,214081,214082,214083,214084,214085,214086,214087,214088,214089,214090,214092,214093,214094,214095,214096,214097,214099,214102,214103,214104,214107,214108,214110,214113,214114,214115,214119,214121,214122&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 12:47:46 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 12:47:46 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 60
+x-ratelimit-retry-after: 1741524455
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=IvzcVL1NyYF6EkmsERWYrggyvcWQ3akA1TSUkeFhRgv7A3skJZHlFq9y9beFeoe8fiDPe9Tng%2BgRRh0kr%2BmzukJObM%2Fvvp9cwbGAcOemfoxlnBT081LgXkhG9S43%2Bw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91daae86cddde1e0-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17913&min_rtt=17846&rtt_var=6827&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2837&recv_bytes=1395&delivery_rate=158807&cwnd=251&unsent_bytes=0&cid=5051e911561366a2&ts=10714&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=214186,214188,214189,214190,214191,214192,214193,214194,214195,214196,214197,214198,214199,214200,214201,214204,214205,214206,214207,214208,214209,214211,214212,214213,214214,214215,214216,214218,214219,214220,214221,214222,214223,214224,214226,214227,214228,214230,214231,214232,214233,214234,214235,214236,214237,214238,214239,214240,214241,214242&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:11:48 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:11:48 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 57
+x-ratelimit-retry-after: 1741525893
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=UxE547ErA4m3mk4%2BwcrFP%2FLrfvSs%2FFNmNZor2t2Jkr9lTlOBt9SSvTYdt7uIaSAYbjvbTBrQXzLIpRTI3ISBUaHmdyuYvp8%2FrxoxSaoq%2FsVxwS%2FBBvO7vgRVRjAhTg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad1a3f8d4e208-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=18300&min_rtt=18281&rtt_var=6893&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2839&recv_bytes=1486&delivery_rate=158402&cwnd=243&unsent_bytes=0&cid=ef8303a203346060&ts=14308&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=214128,214130,214131,214133,214134,214135,214136,214137,214139,214140,214141,214142,214143,214144,214145,214146,214147,214148,214149,214150,214151,214152,214153,214154,214155,214156,214157,214158,214159,214160,214161,214162,214163,214164,214165,214166,214167,214168,214169,214170,214171,214172,214173,214174,214176,214179,214180,214183,214184,214185&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:11:48 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:11:48 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 58
+x-ratelimit-retry-after: 1741525893
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Y6Gl4GE3ZLLF70p%2FI0a6yjQNlUU6eBvQaBNQJgOKHUd0SA0Xbxt%2BETg8SUwHUEAllD49lWjX74x8NGICPwSssmwrZxuqjSrleOQRdlv%2BlRxjtqKkvUhvhI6Zb%2BqY6Q%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad1a3faede197-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17808&min_rtt=16843&rtt_var=7005&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2839&recv_bytes=1486&delivery_rate=173365&cwnd=236&unsent_bytes=0&cid=3aa7f2e997da93ff&ts=14697&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=214243,214244,214245,214247,214249,214250,214251,214252,214253,214254,214255,214256,214257,214259,214260,214261,214263,214264,214265,214266,214268,214269,214270,214271,214272,214273,214274,214275,214276,214277,214278,214279,214280,214281,214282,214283,214284,214285,214287,214288,214290,214291,214292,214293,214294,214296,214297,214298,214299,214300&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:12:02 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:12:02 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 56
+x-ratelimit-retry-after: 1741525908
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=p0Uex5QElhI27NHwXibJU0SFrDgAui943Xszaqy2%2BZIaxTIXsfdd%2F4psWmlijhW4A%2B6qWjZnt589qMTt46sCaDGhgHaJedDY3xhZ5HPBUtm6Fim1vFSjLyDxuGa0vg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad1fe7b2db684-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=18074&min_rtt=18053&rtt_var=6812&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=160245&cwnd=251&unsent_bytes=0&cid=54184be204c1cca4&ts=14240&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=214301,214302,214303,214305,214306,214307,214308,214309,214310,214311,214312,214313,214314,214316,214317,214318,214319,214320,214321,214323,214324,214325,214326,214327,214328,214329,214330,214332,214333,214334,214335,214336,214337,214338,214340,214341,214342,214343,214344,214345,214347,214348,214349,214350,214351,214352,214353,214354,214355,214357&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:12:02 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:12:02 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 55
+x-ratelimit-retry-after: 1741525908
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=KSL2aKMIRIsXUY9a08iRZBn7x07h8zXz2p1jHQ%2Fb6ghU9O%2Bgh5cpce%2B3jrpcBlPHqsFdmJJust0ucvXFuK12qZ7gpFoCMQyBtwHWH8A2LjJGaobjKUge%2BjtceBUbeQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad200fec89d99-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17872&min_rtt=17298&rtt_var=6896&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=168805&cwnd=213&unsent_bytes=0&cid=429c7ed4eae053c0&ts=14174&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=214358,214359,214360,214361,214362,214363,214364,214366,214367,214368,214369,214370,214371,214372,214373,214376,214377,214378,214379,214380,214381,214382,214383,214384,214385,214386,214387,214388,214389,214390,214391,214392,214393,214394,214397,214398,214399,214400,214401,214402,214403,214404,214405,214406,214407,214408,214410,214411,214412,214413&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:12:17 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:12:17 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 54
+x-ratelimit-retry-after: 1741525922
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=o0Dpx8rWnTNLSj4yw5gg8ucd%2FT%2FGwZgUzmyJDdZHX%2F0PM%2FpOWaaJp0YfqPAsTsV1TEoiLXSl0dJFqCvZmLZqUc108kIm%2BhsIugu4mC70XuJnNf6tqHGgxXaaJkGgUw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad258da469a73-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=18141&min_rtt=17976&rtt_var=7071&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=151318&cwnd=153&unsent_bytes=0&cid=fc3aebae1b6e0379&ts=14360&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=214414,214415,214416,214417,214418,214419,214420,214421,214422,214423,214424,214425,214426,214427,214428,214429,214430,214431,214432,214433,214434,214435,214437,214438,214439,214440,214441,214442,214443,214444,214445,214446,214447,214449,214450,214453,214454,214455,214456,214457,214458,214459,214461,214462,214463,214464,214465,214466,214467,214468&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:12:17 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:12:17 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 53
+x-ratelimit-retry-after: 1741525923
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=43lDE6Tvc%2F9kCuFHh4qYudxXCKqUhWNBbe%2F0r%2FtuEx4%2BliWzHhVxKphLOnWDumLb4lUMwDAgSpeIvJ3HUx7EuUrkYnllfctsKmt24NLZXtpZ35wwKmTjrGLe1VEIWQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad25aba6de1d0-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17980&min_rtt=17932&rtt_var=6759&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=162837&cwnd=250&unsent_bytes=0&cid=d22c26ca8ac6e51f&ts=14189&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=214469,214471,214472,214473,214474,214475,214476,214477,214478,214480,214481,214482,214483,214484,214485,214486,214487,214488,214489,214490,214491,214493,214494,214495,214496,214497,214498,214499,214500,214501,214502,214503,214504,214505,214506,214507,214508,214509,214511,214512,214513,214514,214515,214516,214517,214518,214519,214520,214521,214522&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:12:31 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:12:31 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 52
+x-ratelimit-retry-after: 1741525937
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=g%2Fpea5jY%2BWxDCaxxHa7sToulM8CozXVDvYCEAwX9%2FmYqd97Mw8kAxFCHepWzFZdfkNvCM9SJgt2nC6iHE7J3d41z4O6q5bIdOpXaOOy0HDHIqRtq9ndzEhkzwqB4ew%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad2b3b93fe1f0-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=18498&min_rtt=18082&rtt_var=7613&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=136378&cwnd=251&unsent_bytes=0&cid=0bd480b7942e3a75&ts=14456&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=214523,214524,214525,214526,214527,214528,214529,214530,214532,214533,214534,214535,214536,214537,214539,214540,214541,214542,214543,214544,214545,214546,214547,214548,214549,214551,214552,214553,214554,214555,214556,214557,214558,214559,214560,214561,214563,214564,214565,214566,214567,214568,214569,214570,214571,214572,214573,214574,214575,214576&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:12:31 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:12:31 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 51
+x-ratelimit-retry-after: 1741525937
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=yt5Yisua%2FZLY6ptgCTmUNXXZyVSOqAz6%2B5%2FGEIEuaaLivdK1zlctQFx2NgpYhY39It9DjFNojUPdcQAC6tTan39QyNt4hjXIQjrHXC%2F58PnTRun9MVFKw2j5uZHOEg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad2b4acd4e1c1-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=16678&min_rtt=16651&rtt_var=6300&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=173047&cwnd=199&unsent_bytes=0&cid=b5cdc0985e16532c&ts=14362&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=214578,214579,214580,214581,214583,214584,214585,214586,214588,214589,214591,214594,214595,214596,214598,214600,214601,214602,214603,214604,214605,214606,214607,214608,214609,214610,214611,214612,214613,214614,214615,214616,214617,214618,214619,214620,214621,214622,214624,214625,214626,214627,214629,214630,214631,214632,214633,214635,214636,214637&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:12:46 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:12:46 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 50
+x-ratelimit-retry-after: 1741525951
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=n%2B3e2Wi9Ewqjsm%2F9FLsWuPLfCaBC2sZ6%2FF6QT1dVBh5VOGvZo5aVBxvs2rh4xY%2FEY%2FZvUcVxd568Tel%2BbgzZIGF7N62Brj1ufV93uCHsjIsEFWNnygvn1bM5Ug1JMg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad30f7ef91e71-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17794&min_rtt=16760&rtt_var=7023&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=174224&cwnd=246&unsent_bytes=0&cid=d640e2d83160c2b3&ts=14327&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=214638,214639,214640,214641,214642,214643,214644,214646,214647,214648,214649,214650,214651,214652,214653,214654,214655,214656,214657,214659,214660,214661,214663,214664,214665,214666,214668,214669,214670,214671,214672,214673,214674,214675,214676,214677,214679,214680,214681,214682,214683,214684,214685,214687,214688,214689,214690,214691,214692,214693&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:12:46 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:12:46 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 49
+x-ratelimit-retry-after: 1741525952
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=P9k%2FIlGA6qkNyu2M4jEb54kmswy66PIkjqdamixrnpZ1LFHdASX0cBxC4hyzJpxloBEVshDJVs3ZuJsIRtbfe57WpTPydpzYhElx35FRuV9siDRNPiWttuR44s5MTQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad3101fc34687-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=19685&min_rtt=17872&rtt_var=7997&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=163384&cwnd=251&unsent_bytes=0&cid=a323d0fea00300d6&ts=14479&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=214694,214696,214697,214698,214699,214700,214701,214704,214706,214707,214708,214710,214711,214712,214713,214714,214715,214716,214717,214718,214719,214720,214721,214722,214723,214724,214725,214726,214727,214728,214729,214730,214731,214732,214733,214734,214735,214736,214737,214738,214740,214741,214742,214743,214747,214748,214749,214751,214752,214753&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:13:00 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:13:00 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 48
+x-ratelimit-retry-after: 1741525966
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=yOSIH3%2FJl%2FvSp1QCUo9hvVeBAvM93ZkPgw3Ba2bS5VF8dDd4z0q8U%2FZX%2FIAebubaZqjq8jKmaVa5KvZcUrPkSS9pKXYROcZ6m%2B8P7ISfZ0Z216C%2BFCuI430dJrNRcQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad36a4c17e27d-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17837&min_rtt=16638&rtt_var=7096&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2839&recv_bytes=1486&delivery_rate=175501&cwnd=251&unsent_bytes=0&cid=3c1840fae2309c0a&ts=14387&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=214754,214755,214756,214757,214758,214759,214760,214761,214762,214763,214764,214765,214766,214767,214769,214770,214771,214772,214774,214775,214776,214777,214778,214779,214781,214782,214783,214785,214786,214787,214788,214789,214790,214791,214792,214793,214794,214795,214796,214798,214799,214800,214801,214802,214803,214805,214806,214808,214809,214810&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:13:00 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+Expires: Sun, 09 Mar 2025 13:13:00 GMT
+Server: cloudflare
+X-Ratelimit-Limit: 120
+X-Ratelimit-Remaining: 47
+X-Ratelimit-Retry-After: 1741525966
+X-Real-Server: ffe17674053c
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: zstd
+CF-RAY: 91dad36bc9801988-MRS
+alt-svc: h3=":443"; ma=86400
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=214811,214812,214813,214814,214815,214816,214817,214818,214819,214820,214821,214823,214824,214825,214826,214827,214828,214829,214832,214833,214834,214836,214837,214838,214839,214841,214842,214843,214844,214846,214847,214848,214849,214850,214851,214852,214853,214854,214855,214856,214857,214858,214859,214860,214861,214862,214863,214864,214865,214867&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:13:15 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:13:15 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 46
+x-ratelimit-retry-after: 1741525981
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=7puCCPN9NPWaq8e%2FOyGIDqpuIT5VdGWseQQlpyhclIfSJyzte9H8FkPHgboO4eJiPBBh%2F06BQy7D%2Bvb1eZIKPZZ6ehG4sRIAm1UPRCGD0E2SpNOeZnjj19vVSnlEwA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad3c56ea92d58-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17723&min_rtt=16480&rtt_var=7068&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=177184&cwnd=248&unsent_bytes=0&cid=8fea2b40292d0416&ts=14414&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=214868,214869,214870,214871,214872,214873,214874,214875,214876,214877,214878,214879,214880,214881,214882,214883,214884,214888,214889,214890,214891,214892,214893,214894,214895,214896,214897,214898,214899,214900,214902,214903,214904,214905,214906,214907,214908,214909,214910,214911,214912,214913,214914,214915,214916,214917,214918,214919,214920,214921&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:13:15 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:13:15 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 45
+x-ratelimit-retry-after: 1741525981
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=JWcIMap5XssqhFDID3UJemOPfuzGNBebFJtfZaNr4Z%2BmPLqE7acRKcFen7JIkZWQ0xWqlCIJxWGUBpWoDdIWxCkSHZ4reL3sPA%2BTx9it8Zxd3hTY3Id2ejRr5WfLNA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad3c7a9e0169b-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17923&min_rtt=17790&rtt_var=6766&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=164137&cwnd=251&unsent_bytes=0&cid=d3e42185ebc093a1&ts=14463&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=214922,214923,214924,214925,214926,214927,214929,214930,214932,214933,214934,214936,214937,214938,214939,214940,214941,214942,214943,214944,214945,214946,214947,214948,214949,214950,214951,214952,214953,214954,214955,214956,214957,214958,214959,214960,214961,214962,214964,214965,214966,214967,214968,214969,214970,214971,214972,214973,214974,214975&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:13:30 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+Expires: Sun, 09 Mar 2025 13:13:30 GMT
+Server: cloudflare
+X-Ratelimit-Limit: 120
+X-Ratelimit-Remaining: 44
+X-Ratelimit-Retry-After: 1741525995
+X-Real-Server: ffe17674053c
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: zstd
+CF-RAY: 91dad420fc80e191-MRS
+alt-svc: h3=":443"; ma=86400
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=214976,214977,214978,214979,214980,214981,214982,214983,214984,214985,214986,214987,214989,214990,214991,214992,214993,214994,214995,214996,214997,215000,215001,215002,215003,215004,215005,215006,215007,215008,215009,215010,215011,215012,215013,215014,215015,215016,215017,215018,215019,215020,215021,215022,215023,215024,215025,215026,215027,215029&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:13:30 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:13:30 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 43
+x-ratelimit-retry-after: 1741525996
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=YWbVZDjKYqpNEPfXZpuGGdGnEGGqTsYSEmfuba9IRp9djUQX1laT%2F0Dax0tmfCCTHgRL2dXMX1AG%2FtWhPFPI2GJ06B3S1TsuJfWKgZ93qb6d6tAi3Ga7ddFT75Se%2Bg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad4232a8a1f97-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=18012&min_rtt=17856&rtt_var=7009&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2839&recv_bytes=1486&delivery_rate=152799&cwnd=152&unsent_bytes=0&cid=874f8eeaf9088d25&ts=14534&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=215030,215031,215032,215033,215034,215036,215037,215038,215039,215040,215041,215042,215043,215045,215046,215047,215048,215049,215050,215051,215052,215053,215054,215055,215056,215059,215060,215061,215062,215063,215064,215065,215067,215068,215069,215071,215072,215073,215074,215075,215076,215077,215078,215080,215081,215082,215083,215084,215085,215087&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:13:44 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:13:44 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 42
+x-ratelimit-retry-after: 1741526010
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=qWcdFlCBJH6pBpe1ubrh7iZvF%2FQvKHfCijlfSAuplE4KgPclo8xQnTP7T3c5aGIbH%2B9n818gfgGctHIZuqr88olME0axcO3ZKj5kvy7pj0Qvg3rKVKt37HfE3jdB8A%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad47d987c5014-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17919&min_rtt=17672&rtt_var=6804&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2839&recv_bytes=1486&delivery_rate=165233&cwnd=245&unsent_bytes=0&cid=fccf438c560a26a1&ts=14530&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=215088,215090,215091,215092,215093,215094,215095,215096,215097,215098,215099,215100,215101,215102,215103,215104,215105,215106,215107,215108,215109,215110,215111,215112,215113,215114,215115,215116,215117,215118,215119,215120,215121,215122,215123,215124,215125,215126,215127,215128,215129,215130,215131,215132,215133,215135,215136,215137,215138,215139&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:13:45 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:13:45 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 41
+x-ratelimit-retry-after: 1741526010
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=s3%2BNoSooqSOYeIQduY%2FMLTAlsCpKTmoIA7iFPGaZUNyEbwe4PGz74qWaQgw44GW9CO%2F6UUwEAmm3lhiMpc0H3WgW5ZLAh%2Bj0QqKwpl7cFjPfiL0g3Yc01wfD44lpyg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad47f3da6e18b-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17806&min_rtt=16243&rtt_var=7208&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2839&recv_bytes=1486&delivery_rate=179769&cwnd=246&unsent_bytes=0&cid=a136b8c9767d73e9&ts=14446&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=215140,215141,215143,215144,215146,215147,215148,215149,215150,215151,215152,215153,215154,215155,215156,215157,215158,215159,215160,215161,215162,215164,215165,215166,215167,215168,215169,215170,215171,215172,215173,215174,215175,215176,215178,215179,215180,215181,215182,215185,215186,215187,215188,215189,215190,215191,215192,215193,215194,215195&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:13:59 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:13:59 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 40
+x-ratelimit-retry-after: 1741526025
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Uc4RvZXUrfFD1Xsx%2BkuvVrVzO7s%2Fz0ABUnGSBwxMG1btR6nYLdVO8B8Lf8oFIB%2FG7UFdvsUIrJsQTiw6xULhlB75vN8iIgKMkQSXunWT8PuvsHJxgtYUWdr%2FkEkl8A%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad4d9afc2e218-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=19793&min_rtt=18821&rtt_var=7752&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=155145&cwnd=208&unsent_bytes=0&cid=eb33ae49fd33c84f&ts=14595&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=215196,215197,215198,215199,215200,215201,215202,215203,215204,215205,215206,215207,215208,215209,215210,215211,215212,215213,215214,215215,215216,215218,215219,215220,215221,215223,215224,215225,215226,215227,215228,215229,215230,215231,215232,215233,215234,215235,215236,215237,215238,215239,215240,215241,215242,215243,215244,215245,215246,215247&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:13:59 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:13:59 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 39
+x-ratelimit-retry-after: 1741526025
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=2KChIb0ebsM6V2p%2Fekot8Vqy6JL7LYsTV9fuh26qsQCvCtaSrNH%2Fr34bPV86ebUC9%2B6NG8ztTnkjt84FqL%2FFAK6t1idRj8vq14mEl%2FgCfV%2BZHo3swqwcQrpT0CFzXg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad4db0ca6764d-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=18180&min_rtt=17995&rtt_var=7118&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2839&recv_bytes=1486&delivery_rate=149920&cwnd=159&unsent_bytes=0&cid=ef01d4ccb8b68672&ts=14525&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=215248,215249,215250,215251,215253,215254,215255,215256,215257,215260,215262,215263,215264,215265,215266,215267,215268,215269,215270,215271,215272,215273,215274,215275,215277,215278,215279,215280,215281,215282,215283,215284,215285,215286,215287,215288,215289,215290,215291,215292,215293,215294,215295,215296,215297,215298,215299,215300,215301,215302&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:14:14 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:14:14 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 38
+x-ratelimit-retry-after: 1741526040
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=eTXlqmgTcbRwejpdDXkV7AsEzTlg2siI3y%2BgroNl32IvjZRNato5WGhOdQPU1onq1m5KlSgviOk13KBwaN5jTgsqVhkl08rIHGM%2BVhwD56zpYu9ze8dgwi4wQadTgA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad535ed91e1a8-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=16722&min_rtt=16617&rtt_var=6442&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=167229&cwnd=251&unsent_bytes=0&cid=8a29f865ae94a155&ts=14691&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=215303,215304,215305,215306,215307,215308,215309,215310,215311,215312,215313,215314,215315,215316,215318,215320,215322,215323,215324,215325,215326,215327,215328,215329,215330,215331,215333,215335,215336,215337,215338,215339,215340,215341,215342,215343,215344,215345,215346,215347,215348,215349,215350,215351,215352,215353,215354,215355,215356,215357&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:14:14 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+Expires: Sun, 09 Mar 2025 13:14:14 GMT
+Server: cloudflare
+X-Ratelimit-Limit: 120
+X-Ratelimit-Remaining: 37
+X-Ratelimit-Retry-After: 1741526040
+X-Real-Server: ffe17674053c
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: zstd
+CF-RAY: 91dad5371ed5260a-MRS
+alt-svc: h3=":443"; ma=86400
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=215358,215359,215360,215362,215363,215364,215365,215366,215367,215368,215369,215370,215371,215372,215373,215374,215375,215376,215377,215378,215379,215380,215381,215382,215383,215385,215386,215388,215389,215390,215391,215392,215393,215394,215395,215397,215398,215399,215400,215401,215402,215403,215404,215405,215406,215407,215408,215409,215410,215412&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:14:29 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:14:29 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 36
+x-ratelimit-retry-after: 1741526054
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=jYa%2F1UiIhpfFpypV5JtiGgNjI4aEZ%2BHl0hJa%2BbgFUg8yHW%2BMyt8pougzQtzw%2B3%2BtPwtWcfNVkPgAhmdeTFZWDbuj5C3mfwDROdTNsuyAL%2F%2BnqCVG1ywQ8dysyaCR4g%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad592f971e1a6-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=18210&min_rtt=17996&rtt_var=7177&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=148125&cwnd=251&unsent_bytes=0&cid=7211cacd64d5c5e0&ts=14409&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=215413,215414,215415,215416,215417,215418,215419,215420,215421,215422,215423,215424,215425,215426,215427,215428,215429,215430,215431,215432,215434,215435,215436,215437,215438,215439,215440,215441,215443,215444,215445,215446,215447,215448,215449,215450,215452,215453,215454,215455,215456,215457,215458,215459,215461,215462,215463,215464,215465,215466&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:14:29 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:14:29 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 35
+x-ratelimit-retry-after: 1741526055
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=RgIHieVRzUEVNCWv4SpVMOkNgzE4LNLuYBdOS4iaLQu0CY3L7DXsH5ZdpV8iQcAWtiamsYGgV2YJ6%2BnUChZfwxXlqB5d4H6oR%2FRKFToDvpqXJBvddDlz1Y7QRd0EMg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad5940d0ef4f6-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17730&min_rtt=16722&rtt_var=6991&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=174620&cwnd=233&unsent_bytes=0&cid=dcf57ece81c67a9c&ts=14448&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=215467,215468,215469,215470,215471,215473,215474,215475,215476,215477,215478,215479,215480,215485,215487,215488,215489,215490,215491,215492,215493,215494,215495,215496,215497,215498,215499,215500,215501,215502,215503,215504,215505,215506,215507,215508,215509,215510,215511,215512,215513,215514,215515,215516,215517,215518,215519,215520,215521,215522&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:14:44 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:14:44 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 34
+x-ratelimit-retry-after: 1741526069
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=DP8vwuHfedGHZ1Rpdt70hBqBMvTCTUhcrQJS59eW%2Be8MienRGJQzQ7Vp66RrUUZVIl3Byi2U%2BN49A%2FNtYuTsFLtNk4MwAElKA%2FC0XylimUKevEZ6u%2F7YBYuukOd%2BbA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad5eed9e618a0-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17777&min_rtt=17061&rtt_var=6909&sent=5&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=171150&cwnd=247&unsent_bytes=0&cid=1067b57bd8e24118&ts=14692&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=215523,215524,215525,215526,215527,215529,215530,215531,215533,215534,215535,215536,215537,215538,215539,215540,215541,215542,215544,215545,215547,215548,215549,215550,215551,215552,215553,215554,215555,215556,215557,215558,215559,215560,215561,215562,215563,215565,215566,215567,215568,215569,215570,215571,215572,215573,215574,215575,215576,215577&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:14:44 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:14:44 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 33
+x-ratelimit-retry-after: 1741526069
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=fwwPQ%2BKW%2FZdtgz3%2BuVEsZCTaxrwPLhyTU2L6LOGtXaRDSrjUH%2Bq%2BMvKBJmNXhNQrK3nkponW2JBu8EdSy1Qom%2FE9Tbw7ccvG2UYVHgelLXEF0%2B8EftYszCX%2BWquE2g%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad5effd40e1d9-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=17798&min_rtt=16685&rtt_var=7052&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1486&delivery_rate=175007&cwnd=251&unsent_bytes=0&cid=48155983a3df2710&ts=14419&x=0"
+
+---
+API Request to: https://myhordes.de/api/x/json/towns?appkey=0cea5a717178d38925b352dd18179a2d&userkey=6e1923ef024e071fb8db730bb69c3c52&ids=215578,215579,215580,215581,215582,215583,215584,215585,215586,215587,215588,215589,215590,215591,215592,215593,215594,215595,215596,215597,215598,215599,215600,215601,215602,215603,215604,215605,215606,215608,215609,215610,215613,215614,215616,215617,215618,215619,215620,215622,215623,215624,215625,215626&fields=id, mapId, day, mapName, language, season, phase, v1, score, citizens.fields(id, twinId, etwinId, survival, avatar, avatarData.fields(url, format, x, y, classic, compressed), name, dtype, score, msg, comment)
+Response Headers:
+Date: Sun, 09 Mar 2025 13:14:57 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=0, must-revalidate, private
+expires: Sun, 09 Mar 2025 13:14:57 GMT
+x-ratelimit-limit: 120
+x-ratelimit-remaining: 32
+x-ratelimit-retry-after: 1741526084
+x-real-server: ffe17674053c
+cf-cache-status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=OonMLCwnlgGeF4xHgbM4liYL1brS2RQ2lLnYAZXqatB6OKq%2BeE7l66kWnVXxpFQ9TnlKzpTQuqWSBEgc%2FVbmp6hGMCysBr2l2B8A4PQEE7kAsLOqt5pW3Cbtb%2Fh4mg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 91dad64afa3c7226-MRS
+Content-Encoding: zstd
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=18085&min_rtt=17994&rtt_var=6929&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2838&recv_bytes=1444&delivery_rate=155966&cwnd=233&unsent_bytes=0&cid=128da4329b90367c&ts=12754&x=0"
+
+---

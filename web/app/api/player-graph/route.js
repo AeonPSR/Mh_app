@@ -2,46 +2,21 @@ import { NextResponse } from 'next/server';
 import fs from 'fs';
 import path from 'path';
 
-export async function GET() {
-    const townsDir = path.join(process.cwd(), '../data_processing/towns');
-    const files = fs.readdirSync(townsDir);
-    const nodes = {};
-    const links = [];
+export async function GET(req) {
+    const { searchParams } = new URL(req.url, "http://localhost");
+    const season = searchParams.get("season");
 
-    files.forEach(file => {
-        if (file.endsWith('_towns_data.json')) {
-            const townData = JSON.parse(fs.readFileSync(path.join(townsDir, file), 'utf8'));
+    if (!season) {
+        return NextResponse.json({ error: "Season parameter is required" }, { status: 400 });
+    }
 
-            townData.forEach(town => {
-                const citizens = town.citizens;
+    const graphPath = path.join(process.cwd(), `../data_processing/player_graphs/${season}_graph.json`);
 
-                citizens.forEach(player => {
-                    // Add player as node if doesn't exist yet
-                    if (!nodes[player.id]) {
-                        nodes[player.id] = {
-                            id: player.id,
-                            name: player.name,
-                            avatar: player.avatar
-                        };
-                    }
-                });
-
-                // Create links between all citizens in this town
-                for (let i = 0; i < citizens.length; i++) {
-                    for (let j = i + 1; j < citizens.length; j++) {
-                        links.push({
-                            source: citizens[i].id,
-                            target: citizens[j].id,
-                            town: town.mapName
-                        });
-                    }
-                }
-            });
-        }
-    });
-
-    return NextResponse.json({
-        nodes: Object.values(nodes),
-        links
-    });
+    try {
+        const graphData = JSON.parse(fs.readFileSync(graphPath, 'utf8'));
+        return NextResponse.json(graphData);
+    } catch (error) {
+        console.error(`Error loading graph for season ${season}:`, error);
+        return NextResponse.json({ error: `Graph data for season ${season} not available` }, { status: 404 });
+    }
 }
